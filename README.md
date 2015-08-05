@@ -5,6 +5,8 @@ Dependencies:
 xte
 (sudo apt-get install xautomation)
 
+Link to the android app->https://play.google.com/store/apps/details?id=com.goseeky.abhay.shakendrive
+
 How to connect:
 1)Start a wifi network and make sure that both the system and the android device are connected to the Wifi.
 2)Start the input server by typing- Python server.py
